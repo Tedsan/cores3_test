@@ -9,6 +9,10 @@
 
 ![project wizard](images/image2023-06-03-16-34-33.png)
 
+## DEBUG
+
+![debug](images/image2023-06-03-16-50-44.png)
+
 ## References
 
 ・[M5Unified](https://github.com/m5stack/M5Unified)
